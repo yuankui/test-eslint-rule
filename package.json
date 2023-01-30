@@ -19,6 +19,8 @@
   },
   "dependencies": {
     "@types/eslint": "^8.4.10",
+    "@types/marked": "^4.0.8",
+    "marked": "^4.2.12",
     "requireindex": "^1.2.0"
   },
   "devDependencies": {
